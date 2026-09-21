@@ -96,3 +96,6 @@ Just go to the Write partitions of mtk client then click set directory and chose
 
 If you get i sign that you cant boot your phone and it auto power off it most likey your phone bootloader was relock just go to mtk client
 and go to flash tools and unlock the bootloader and disconnect the USB cable and wait for your phone to boot
+
+
+if you have any improvements plz make a issues and I will respond 
