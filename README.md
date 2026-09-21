@@ -70,6 +70,8 @@ and go to the write partitions on mtk client
 <img width="989" height="629" alt="image" src="https://github.com/user-attachments/assets/d05fc22d-7cc4-49d6-958b-d08d95106c7d" />
 
 go to the recoverey section and click SET and chose the file you just downloaded (TWRP_RMX-3171.bin)
+[Link to FILE]([https://github.com/bkerler/mtkclient](https://drive.google.com/file/d/1wynoAtM29PUy1_R3o4dvipLyOkrpAbW_/view?usp=sharing
+))
 and click (Write partitions)
 then go to Read partitions and check (recovery)
 and click read place it anywhere but DO NOT USE THE SAME FOLDER YOU USE FOR YOU MAIN BACKUP
